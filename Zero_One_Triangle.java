@@ -12,6 +12,8 @@ public class Zero_One_Triangle {
                 System.out.print(a?"1":"0");
 
             }
+
+
             System.out.println();
 
         }

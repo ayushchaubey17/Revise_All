@@ -7,9 +7,9 @@ convert(1111);
 
 
 
-        int number = n;
-        int decimal_Value = 0;
-        int power = 0;
+             int number = n;
+             int decimal_Value = 0;
+             int power = 0;
 
 
         while(number > 0){

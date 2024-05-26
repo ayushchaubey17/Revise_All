@@ -1,6 +1,6 @@
 public class Diamond_Pattern {
     public static void main(String[] args) {
-        print_Pattern(4);
+        print_Pattern(8);
     }
     public  static  void print_Pattern(int n){
         int k =1;
